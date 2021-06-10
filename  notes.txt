@@ -1,0 +1,35 @@
+//The most important thing in React is the fact that it is structured
+//into components which are reusable pieces of code that allow for very complex
+//web applications alongside with speedy results that enhance UI.
+
+//Terminal
+
+//PWD- Full Pathname to Current Working Directory
+
+//LS- List of Directories.
+
+//MKDIR - Create  a directory / Folder.
+
+//CD- Change a Directory
+
+//CD - Navigate to Parent / One level Up
+
+//Clear- Clear Console.
+
+//Arrow KEY UP/Down - Previous commands.
+
+//-------===========NPM Basics===========-----//
+
+//NPM INIT- creates package.json (manifest)file, list dependencies
+
+//NPM INSTALL- <package name> -- save
+
+INSTALL package globally (access anywhere) SUDO
+
+//NPM INSTALL <package name> --save-dev
+
+
+//--------===========Create React-App=============-------//
+
+//Babel is a JS compiler.
+//Folder structure in Create-React-App
